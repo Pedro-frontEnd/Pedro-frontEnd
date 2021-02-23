@@ -30,7 +30,7 @@
 
 <details>
 <summary>Statistics! (click to expand)</summary>
-<img src="https://github-readme-stats.vercel.app/api?username=pedro-frontend&show_icons=true" alt="pedro-frontend"/>
+<img src="https://github-readme-stats.vercel.app/api?username=pedro-frontend&show_icons=true&theme=dark" alt="pedro-frontend"/>
 </details>
 
 <!--
