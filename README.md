@@ -4,7 +4,7 @@
 
 - 🔭 I am currently working on **personal projects**
 
-- 🌱 I’m currently learning **SQL and Nextjs**
+- 🌱 I’m currently learning **Typeorm and Nextjs**
 
 - 💬 Ask me about **JavaScript, HTML, CSS, Reactjs, Nextjs**
 
@@ -29,10 +29,8 @@
 ### Other Languages I know
 <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> 
 
-<details>
-<summary>Statistics! (click to expand)</summary>
+### Statistics
 <img src="https://github-readme-stats.vercel.app/api?username=pedro-frontend&show_icons=true&theme=dark" alt="pedro-frontend"/>
-</details>
 
 <!--
 **Pedro-frontEnd/Pedro-frontEnd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
